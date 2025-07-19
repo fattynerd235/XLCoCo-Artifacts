@@ -3,7 +3,7 @@ from kaggle.api.kaggle_api_extended import KaggleApi
 
 # ----------- Configuration -----------
 kaggle_json_path = './kaggle.json'  # Adjust if you're storing it in a custom location
-dataset_slug = 'kawserwazednafi/xlcoco-results'
+dataset_slug = 'fattynerd/xlcoco-artifacts'
 download_dir = './CSVFiles'
 unzip_after_download = True
 # --------------------------------------
