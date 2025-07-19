@@ -1,0 +1,10 @@
+Classification Report
+======================
+              precision    recall  f1-score   support
+
+   Non-Clone       0.00      0.00      0.00         0
+       Clone       1.00      0.99      1.00      9268
+
+    accuracy                           0.99      9268
+   macro avg       0.50      0.50      0.50      9268
+weighted avg       1.00      0.99      1.00      9268
