@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 ### Dataset
 As the dataset files are enormous in size, we stored our dataset on Kaggle. You'll need to execute DatasetDownload.py to download the dataset used for the experiment. You will get access to our experimental data as well.
-Alternatively, you can download the using the following link: https://kaggle.com/datasets/206df754ce0d1df7d4157207870a0c9a8beeedb92279a50ea7200ceaf62afc32
+Alternatively, you can download the using the following link: https://www.kaggle.com/datasets/fattynerd/xlcoco-artifacts
 
 ### Feature Extractor
 This is developed in Java with Antlr V4. All the parser-related files and dependent jar files are provided. At present, feature extractor needs to be run individually. 
